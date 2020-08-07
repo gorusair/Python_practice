@@ -1,0 +1,11 @@
+print("Hello world")
+print("Mary's cosmetics")
+print('신씨가 소리질렀다."도둑이야"')
+print("c:\Windows")
+print("안녕하세요.\n만나서\t\t 반값습니다.")# \n은 줄바꿈 \t는 tab
+print("오늘은","일요일")
+# print("naver:kakao:sk:samsung")
+# print("naver/kakao/sk/samsung")
+print("naver","kakao","sk","samsung" sep=";")
+print("naver","kakao","sk","samsung" sep="/")
+print(5/3)
